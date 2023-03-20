@@ -1,0 +1,13 @@
+Editor Tutorial
+
+Move the 'cursor' around using 'WASD' keys
+
+To create a ground piece press the '1' key
+To create a collectable press the '2' key
+
+#Note you can drag while holding down a key to change the scale of a ground piece
+
+To change the color of a highlighted ground piece press the 'z' key
+To change the ground type (or collectable type) press the 'x' key
+
+When saving, the file name will be the title of the level
